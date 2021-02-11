@@ -1,0 +1,63 @@
+body
+{
+    background-color: #c1dee7;
+}
+h1
+{
+    color: blue;
+    text-align: center;
+    font-family: 'Times New Roman';  
+}
+span.titulo
+{
+    color: black;
+    font-size: 100px;
+    font-weight: 100;
+}
+nav
+{
+    color: blue;
+    text-align: center;
+    font-size: large;
+}
+a.nav1
+{
+    text-decoration: none;
+    color: blue;
+}
+a.nav1:hover
+{
+    color: red;
+    background-color: yellow;
+}
+span.parrafo
+{
+    color: red;
+}
+a.enlace
+{
+    background-color: white;
+    color: blue;
+}
+a.enlace:visited
+{
+    color: white;
+    background-color: blue;
+}
+li
+{
+    padding-bottom: 15px;
+    margin-left: -25px;
+}
+footer
+{
+    font-style: italic;
+    letter-spacing: -1px;
+}
+.Steve
+{
+    width: 30%;
+    height: 30%;
+    float: right;
+    margin-top: 5%;
+}
